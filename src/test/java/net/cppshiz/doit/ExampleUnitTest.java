@@ -1,4 +1,4 @@
-package net.penguincoders.doit;
+package net.cppshiz.doit;
 
 import org.junit.Test;
 
